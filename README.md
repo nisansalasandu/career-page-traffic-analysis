@@ -32,7 +32,7 @@ Career-Page-Traffic-Analysis/
 │   ├── Benchmarks                       # Industry benchmark comparison table
 │   └── Dashboard                        # Interactive Excel dashboard
 │
-├── Gamage_Recruiters_Career_Page_Analysis_Report.docx   # Full analytical report
+├── Gamage_Recruiters_Career_Page_Analysis_Report.pdf   # Full analytical report
 │
 └── README.md                            # This file
 ```
